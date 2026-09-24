@@ -1,0 +1,7 @@
+Current Skills:
+- Python
+- C
+- HTML
+- CSS
+- Git
+- GitHub
