@@ -1,0 +1,1 @@
+Hello! I am Dhanush M P, a B.Tech Artificial Intelligence student at Reva University. I am currently learning programming, web development, Git, GitHub, and other technologies to improve my technical skills. This repository contains my learning activities, practice work, and projects as I develop my skills in software and frontend development.
